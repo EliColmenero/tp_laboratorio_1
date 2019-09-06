@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567739857 source:c:\users\monic\desktop\a mostrar tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Colmenero.h"
+
+1567743300 source:c:\users\monic\desktop\a mostrar tp1\colmenero.c
+	<stdio.h>
+	<stdlib.h>
+
+1567742262 c:\users\monic\desktop\a mostrar tp1\colmenero.h
+
